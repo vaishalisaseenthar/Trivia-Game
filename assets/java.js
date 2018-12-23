@@ -13,7 +13,7 @@ $(document).ready(function() {
 	    question: "Who was the Whomping Willow planted for?",
 	    choices: ["Hagrid", "Harry Potter", "James Potter", "Remus Lupin"],
 	    correctAnswer: "Remus Lupin",
-	    image: "<img src='images/lupin.jpg' class='img-circle shadow'>"
+	    image: "<img src='lupin.jpg' class='img-circle shadow'>"
 	  }, 
 	  {
 	    question: "What is Dumbledore's sister's name?",
